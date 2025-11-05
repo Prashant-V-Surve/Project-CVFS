@@ -14,7 +14,7 @@ Technology: C Programming
 It implements core system calls like open, read, write, Iseek, and delete using self-defined
 data structures such as Incore Inode Table, File Table, and User File Descriptor Table.
 
-* I also built a customised shel RS SSR hich gives a complete Linux-
+* I also built a customised shel which gives a complete Linux-
 like environment on any OS.
 
 ************************   Key Features   ************************************
